@@ -10,5 +10,5 @@ Project for getting to know Git with support software.
 - Python v3.7
 - Windows v10 Pro
 
-##External Platform
-[GitHub] (https://github.com/)- repository hosting
+## External Platform
+[GitHub] (https://github.com/) - repository hosting
